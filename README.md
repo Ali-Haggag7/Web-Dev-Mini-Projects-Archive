@@ -12,7 +12,7 @@ Welcome to the ultimate archive of my early web development projects! This repos
 | 04 | **Elzero Template Four** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/04-Elzero-Template-Four) |
 | 05 | **Simple Calculator** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/05-Simple-Calculator) |
 | 06 | **Weather App** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/06-Weather-App) |
-| 07 | **URL Shortener** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/07-URL-Shortener) |
+| 07 | **URL Shortener** | HTML, CSS, JS | *Code Only (MERN)* |
 | 08 | **Blue Car Landing Page** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/08-Blue-Car-Landing-Page) |
 | 09 | **Countdown Timer** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/09-Countdown-Timer) |
 | 10 | **Goblins Landing Page** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/10-Goblins-Landing-Page) |
