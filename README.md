@@ -4,34 +4,34 @@ Welcome to the ultimate archive of my early web development projects! This repos
 
 ## 📂 All Projects in this Archive
 
-| # | Project Name | Main Tech Stack |
-|---|--------------|-----------------|
-| 01 | **Elzero Template One** | HTML, CSS |
-| 02 | **Elzero Template Two** | HTML, CSS |
-| 03 | **Elzero Template Three** | HTML, CSS |
-| 04 | **Elzero Template Four** | HTML, CSS |
-| 05 | **Simple Calculator** | HTML, CSS, JS |
-| 06 | **Weather App** | HTML, CSS, JS |
-| 07 | **URL Shortener** | HTML, CSS, JS |
-| 08 | **Blue Car Landing Page** | HTML, CSS (Custom Animations) |
-| 09 | **Countdown Timer** | HTML, CSS, JS |
-| 10 | **Goblins Landing Page** | HTML, CSS |
-| 11 | **Notes App** | HTML, CSS, JS |
-| 12 | **Prayer Times** | React.js |
-| 13 | **Simple To-Do-List App** | HTML, CSS, JS |
-| 14 | **Random Password Generator** | HTML, CSS, JS |
-| 15 | **Digital Agency** | HTML, CSS, Bootstrap |
-| 16 | **Tobico E-Commerce** | HTML, CSS, JS |
-| 17 | **Youtube Clone** | HTML, CSS, JS |
-| 18 | **Book Store** | MERN Stack |
-| 19 | **Course 4 Arab CRUD** | Node.js, Express, MongoDB, EJS |
-| 20 | **Red Store E-Commerce** | HTML, CSS, JS |
-| 21 | **Personal Portfolio (Codezila)** | HTML, CSS |
-| 22 | **Jadid Movies** | HTML, CSS, JS, Bootstrap |
-| 23 | **Sef Academy Bootstrap** | Bootstrap, HTML, CSS |
-| 24 | **Sef Academy Simple E-Commerce**| HTML, CSS, JS |
-| 25 | **Sef Academy Hostinger App-Like**| HTML, CSS |
-| 26 | **Simple Menu Project** | React.js |
-| 27 | **Shopping App** | React.js |
+| # | Project Name | Main Tech Stack | Live Demo |
+|---|--------------|-----------------|-----------|
+| 01 | **Elzero Template One** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/01-Elzero-Template-One) |
+| 02 | **Elzero Template Two** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/02-Elzero-Template-Two) |
+| 03 | **Elzero Template Three** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/03-Elzero-Template-Three) |
+| 04 | **Elzero Template Four** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/04-Elzero-Template-Four) |
+| 05 | **Simple Calculator** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/05-Simple-Calculator) |
+| 06 | **Weather App** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/06-Weather-App) |
+| 07 | **URL Shortener** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/07-URL-Shortener) |
+| 08 | **Blue Car Landing Page** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/08-Blue-Car-Landing-Page) |
+| 09 | **Countdown Timer** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/09-Countdown-Timer) |
+| 10 | **Goblins Landing Page** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/10-Goblins-Landing-Page) |
+| 11 | **Notes App** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/11-Notes-App) |
+| 12 | **Prayer Times** | React.js | *Code Only (React)* |
+| 13 | **Simple To-Do-List App** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/13-Simple-To-Do-List-App) |
+| 14 | **Random Password Generator**| HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/14-Random-Password-Genarator) |
+| 15 | **Digital Agency** | HTML, CSS, Bootstrap | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/15-Digital-Agency) |
+| 16 | **Tobico E-Commerce** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/16-Tobico-E-Commerce) |
+| 17 | **Youtube Clone** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/17-Youtube-Clone) |
+| 18 | **Book Store** | MERN Stack | *Code Only (MERN)* |
+| 19 | **Course 4 Arab CRUD** | Node.js, Express, MongoDB | *Code Only (Node.js)* |
+| 20 | **Red Store E-Commerce** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/20-Red-Store-E-Commerce) |
+| 21 | **Personal Portfolio** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/21-Personal-Portfolio-By-Codezila) |
+| 22 | **Jadid Movies** | HTML, CSS, JS, Bootstrap| [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/22-Jadid-Movies-Bootstrap) |
+| 23 | **Sef Academy Bootstrap** | Bootstrap, HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/23-Sef-Academy-Bootstrap-Project) |
+| 24 | **Sef Academy E-Commerce** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/24-Sef-Academy-Simple-E-Commerce) |
+| 25 | **Sef Academy Hostinger** | HTML, CSS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/25-Sef-Academy-Hostinger-App-Like) |
+| 26 | **Simple Menu Project** | React.js | *Code Only (React)* |
+| 27 | **Shopping App** | React.js | *Code Only (React)* |
 
 > **Note:** These projects are archived to document my learning curve. For my latest, enterprise-level Full-Stack applications, please visit my main [GitHub Profile](https://github.com/Ali-Haggag7).
