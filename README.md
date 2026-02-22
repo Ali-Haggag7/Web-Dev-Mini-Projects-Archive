@@ -22,7 +22,7 @@ Welcome to the ultimate archive of my early web development projects! This repos
 | 14 | **Random Password Generator**| HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/14-Random-Password-Genarator) |
 | 15 | **Digital Agency** | HTML, CSS, Bootstrap | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/15-Digital-Agency) |
 | 16 | **Tobico E-Commerce** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/16-Tobico-E-Commerce) |
-| 17 | **Youtube Clone** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/17-Youtube-Clone) |
+| 17 | **Youtube Clone** | HTML, CSS, JS | *Code Only (React)* |
 | 18 | **Book Store** | MERN Stack | *Code Only (MERN)* |
 | 19 | **Course 4 Arab CRUD** | Node.js, Express, MongoDB | *Code Only (Node.js)* |
 | 20 | **Red Store E-Commerce** | HTML, CSS, JS | [View Live 🔗](https://Ali-Haggag7.github.io/Web-Dev-Mini-Projects-Archive/20-Red-Store-E-Commerce) |
