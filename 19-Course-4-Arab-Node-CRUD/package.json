@@ -1,0 +1,20 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon --ext *"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "livereload": "^0.9.3",
+    "mongoose": "^8.13.2"
+  }
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Permanent+Marker&display=swap');
+* {
+    font-family: "Cairo", sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+}
+/*----------- header ----------*/
+.search-header {
+    border-bottom: 1px solid #ccc;
+}
+header .cart_button .arrow_down {
+    top: 17px;
+    border: 7px solid transparent;
+    border-top: 7px solid gray;
+}
+header .carts_products {
+    border-radius: 10px;
+    display: none;
+}
+.plus,
+.minus {
+    cursor: pointer;
+}
+/*----------- cards-section ----------*/
+.cards-section .col .card {
+    transition: .3s;
+}
+.cards-section .col .card:hover {
+    transform: translateY(-5px);
+    border: 1px solid rgb(0, 128, 255);
+}
+.fa-heart {
+    cursor: pointer;
+}
+.user_info {
+    margin-left: 30%;
+    display: none;
+}
+@media (max-width:488px) {
+    .user_info {
+        margin-left: 0;
+    }
+}

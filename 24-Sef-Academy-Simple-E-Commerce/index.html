@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header class="overflow-hidden">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand text-primary ms-3 fs-4" href="index.html">Online Shopping</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+                    aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="user_info fs-4 text-uppercase">
+                    <a class="text-decoration-none" href="#" id="user"></a>
+                </div>
+                <div class="collapse navbar-collapse" id="navbarText">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    </ul>
+                    <div class="links position-relative">
+                        <a href="login.html" class="text-primary fs-4 text-decoration-none me-3">
+                            Login
+                        </a>
+                        <a href="register.html" class="text-primary fs-4 text-decoration-none me-3">
+                            Register
+                        </a>
+                    </div>
+                    <div class="text-primary fs-4 text-decoration-none me-3 cart_button position-relative">
+                        <i class="fa-solid fa-cart-shopping me-0">
+                            <span class="badge_count plus text-black fs-6"></span>
+                        </i>
+                        <a class="cart text-decoration-none" href="#">
+                            <span class="position-relative">Cart</span>
+                            <span class="arrow_down position-absolute"></span>
+                        </a>
+                        <div class="carts_products position-absolute bg-light p-2 fs-5">
+                            <div></div>
+                            <a class="text-decoration-none fs-6" href="products.html">View all products</a>
+                        </div>
+                    </div>
+                    <a href="#" class="text-primary fs-4 text-decoration-none me-3 Logout">
+                        Logout
+                    </a>
+                </div>
+            </div>
+        </nav>
+        <!------------ search ------------>
+        <div class="search-header row g-3 align-items-center p-4">
+            <div class="col-auto w-50">
+                <input type="password" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline">
+            </div>
+            <div class="col-auto w-50">
+                <input type="text" id="inputPassword6" class="form-control" aria-describedby="passwordHelpInline"
+                    placeholder="Search">
+            </div>
+        </div>
+
+    </header>
+
+
+    <div class="cards-section mt-3">
+        <div class="container">
+
+            <div class="row g-4" id="row"> <!-- row -->
+                <div class="col-md-3">
+                    <div class="card">
+                        <img src="img/product-4.jpg" class="card-img-top ps-3 pe-3" alt="...">
+                        <div class="card-body ps-4">
+                            <h5>Product : jacket</h5>
+                            <h5>Price : $80</h5>
+                            <h5>Category : fashion</h5>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <a href="#" class="btn btn-primary add_button"
+                                    onClick="removeFromCart(${item.id})">Remove from cart</a>
+                                <i class="fa-solid fa-heart fs-4 me-3"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/user.js"></script>
+
+</body>
+
+</html>

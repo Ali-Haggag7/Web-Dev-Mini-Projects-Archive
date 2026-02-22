@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Permanent+Marker&display=swap');
+* {
+    font-family: "Cairo", sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+}
+/*--------------- header --------------------*/
+nav .brand {
+    border-right: 2px solid red;
+}
+.carousel-item img {
+    height: 100vh !important;
+}
+.social { 
+    top: 50%;
+    left: 96%;
+    transform: translate(-50%,-50%);
+    z-index: 1000;
+}
+@media (max-width: 500px) {
+    .social {
+        left: 80%;
+    }
+}
+.social i {
+    cursor: pointer;
+}
+.social i:hover {
+    background-color: aquamarine !important;
+}
+.accordion button:focus {
+    background-color: white !important;
+    box-shadow: none !important;
+    background-color: #eee !important;
+}
+textarea {
+    width: 95% !important;
+}
+.fixed-image {
+    background-image: url(../images/fantastic-seascape-with-ripples_1232-424.avif);
+    height: 300px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.translate .copy {
+    left: 90px;
+    background-color: red;
+    padding: 0 20px 3px;
+    border-radius: 3px;
+    visibility: hidden;
+    opacity: 0;
+    cursor: pointer;
+}
+.translate:hover .copy {
+    visibility: visible;
+    opacity: 1;
+}
+.card,.card-news {
+    position: relative;
+    box-shadow: -5px -5px 15px rgba(0, 40, 1, .2),
+    10px 10px 20px rgba(0, 40, 1, .2);
+}
+.card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    opacity: 0;
+    background-color: red;
+    transition: .7s;
+}
+.card::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 0;
+    height: 0;
+    opacity: 0;
+    background-color: red;
+    transition: .7s;
+}
+.gallery .card:hover::before,.gallery .card:hover:after {
+    width: 100%;
+    height: 100%;
+    opacity: .3;
+}
+.card-button {
+    margin-top: -5px;
+    height: 70% !important;
+    z-index: 5;
+}
+.partners .box {
+    min-height: 500px;
+    cursor: pointer;
+    transition: .3s ease;
+}
+.partners .box:hover {
+    transform: scale(.9 , .9);
+}
+.partners .box::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    padding: 20px;
+    height: 100%;
+    background-image: url(../images/portrait-woman-teaching-sign-language_23-2148719728.jpg);
+    background-size: cover;
+    opacity: .4;
+    z-index: -1;
+    transition: .3s ease;
+}
+.partners .box:hover::before {
+    opacity: .7;
+}
+.progress {
+    height: 5px !important;
+    width: 120px !important;
+}
+@media (min-width: 768px) {
+    .card-news img {
+        height: 100% !important;
+        clip-path: polygon(2% 0, 100% 0%, 100% 100%, 10% 100%);
+    }
+    .card-news .img-news2 {
+        clip-path: polygon(0 0, 100% 0%, 91% 100%, 0 100%);
+    }
+}
+@media (max-width:767px) {
+    .card-news .content {
+        order: 2;
+    }
+    .card-news .img {
+        order: 1;
+    }
+    .card-text a {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+.card-text a {
+    font-size: 14px;
+}
+.social-media .box {
+    box-shadow: -5px -5px 15px rgba(0, 40, 1, .2),
+    10px 10px 20px rgba(0, 40, 1, .2);
+    cursor: pointer;
+}
+.social-media .box i {
+    font-size: 60px;
+}
+.footer .parent {
+    border-bottom: 1px solid white;
+}
+.footer .logo {
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+.footer .logo img {
+    max-width: 80px;
+}
+.footer .copyright {
+    border-bottom: 1px solid white;
+}
